@@ -1,1 +1,1 @@
-weather app i mm okay with htmal and css can anyone help mr to fixed JS file for me ?
+weather app i m okay with html and css can anyone help me to fixed JS file for me ?
